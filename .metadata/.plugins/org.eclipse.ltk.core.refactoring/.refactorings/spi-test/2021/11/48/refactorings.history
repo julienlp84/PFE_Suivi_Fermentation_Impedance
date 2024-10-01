@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;spi-test/AD5940Lib/Src/ad5940&apos; to &apos;ad5940.c&apos;" description="Rename resource &apos;ad5940&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="AD5940Lib/Src/ad5940" name="ad5940.c" stamp="1637590679198" updateReferences="true"/>
+</session>
