@@ -1,0 +1,10 @@
+../AD5940Lib/Src/NUCLEOF401Port.c:71:6:AD5940_ReadWriteNBytes	32	static
+../AD5940Lib/Src/NUCLEOF401Port.c:76:6:AD5940_CsClr	8	static
+../AD5940Lib/Src/NUCLEOF401Port.c:81:6:AD5940_CsSet	8	static
+../AD5940Lib/Src/NUCLEOF401Port.c:86:6:AD5940_RstSet	8	static
+../AD5940Lib/Src/NUCLEOF401Port.c:91:6:AD5940_RstClr	8	static
+../AD5940Lib/Src/NUCLEOF401Port.c:96:6:AD5940_Delay10us	16	static
+../AD5940Lib/Src/NUCLEOF401Port.c:103:10:AD5940_GetMCUIntFlag	4	static
+../AD5940Lib/Src/NUCLEOF401Port.c:108:10:AD5940_ClrMCUIntFlag	4	static
+../AD5940Lib/Src/NUCLEOF401Port.c:114:10:AD5940_MCUResourceInit	64	static
+../AD5940Lib/Src/NUCLEOF401Port.c:186:6:EXTI15_10_IRQHandler	4	static

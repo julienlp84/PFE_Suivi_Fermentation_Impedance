@@ -1,0 +1,6 @@
+../Core/Src/printf-stdarg.c:35:13:printchar	24	static
+../Core/Src/printf-stdarg.c:53:12:prints	40	static
+../Core/Src/printf-stdarg.c:86:12:printi	88	static
+../Core/Src/printf-stdarg.c:151:12:print	64	static
+../Core/Src/printf-stdarg.c:219:5:my_printf	16	static
+../Core/Src/printf-stdarg.c:227:5:my_sprintf	28	static

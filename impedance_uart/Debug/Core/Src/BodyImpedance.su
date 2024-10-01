@@ -1,0 +1,9 @@
+../Core/Src/BodyImpedance.c:72:11:AppBIAGetCfg	16	static
+../Core/Src/BodyImpedance.c:81:11:AppBIACtrl	104	static
+../Core/Src/BodyImpedance.c:148:18:AppBIASeqCfgGen	280	static
+../Core/Src/BodyImpedance.c:284:18:AppBIASeqMeasureGen	72	static
+../Core/Src/BodyImpedance.c:365:18:AppBIARtiaCal	88	static
+../Core/Src/BodyImpedance.c:412:11:AppBIAInit	56	static
+../Core/Src/BodyImpedance.c:492:11:AppBIARegModify	16	static
+../Core/Src/BodyImpedance.c:516:18:AppBIADataProcess	72	static
+../Core/Src/BodyImpedance.c:572:11:AppBIAISR	24	static

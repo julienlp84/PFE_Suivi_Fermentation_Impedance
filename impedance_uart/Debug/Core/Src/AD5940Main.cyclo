@@ -1,0 +1,4 @@
+../Core/Src/AD5940Main.c:38:9:BIAShowResult	2
+../Core/Src/AD5940Main.c:59:16:AD5940PlatformCfg	1
+../Core/Src/AD5940Main.c:107:6:AD5940BIAStructInit	1
+../Core/Src/AD5940Main.c:138:6:AD5940_BIA	6
